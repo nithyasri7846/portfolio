@@ -3,7 +3,7 @@
   --primary-color: #0bc56bec;         /* Neon Green */
   --secondary-color: #10b35c;        /* Vibrant Pink */
   --accent-color: #00c853;           /* Deeper Green */
-  --bg-color: #1a1a1a;               /* Brighter dark theme */
+  --bg-color: white /*#1a1a1a;               /* Brighter dark theme */
   --glass-bg: rgba(255, 255, 255, 0.041); /* Glass effect background */
   --glass-border: rgba(255, 255, 255, 0.272);
 }
